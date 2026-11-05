@@ -1,0 +1,14 @@
+.{
+    .name = .SEPPL,
+    .version = "0.0.0",
+    .fingerprint = 0xbc369456071a6ae4,
+    .minimum_zig_version = "0.17.0",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "LICENSE",
+        "README.md",
+    },
+}
