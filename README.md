@@ -24,7 +24,7 @@ FUNC add(INT a, INT b) RETS INT
     RET a + b
 END FUNC
 
-FUNC main() AS VOID
+FUNC main() RETS VOID
     INT a = 5
     INT b = 4
 
